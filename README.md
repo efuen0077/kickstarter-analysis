@@ -2,7 +2,9 @@
 Performing analysis on kickstarter data to uncover trends. This is an assignment from week 1.
 ## Images that can show our findings.
 ![Parent_Category_Outcomes] (path/to/Parent_Category_Outcomes.png)
-![Outcomes_Based_On_Launch_Date] (path/to/Outcomes_Based_On_Launch_Date)
+
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/62089134/89402627-0263f880-d6cc-11ea-8fe4-8748793903af.png)
+
 
 Louise should lower the goal for her campign in the UK and in the United States.
 
